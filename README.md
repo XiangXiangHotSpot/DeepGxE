@@ -9,3 +9,11 @@ This repository provides the code and dataset processing pipeline for the paper 
    *(F_MAF0.01_Miss50_Het10-Merged.all.discover.lines.and.selection.candidates.vcf.imputed.CIMMYT.2022.hmp.txt.gz)*
 
 3. The environmental data from the AgERA5 dataset are publicly available and can be directly downloaded at [https://hdl.handle.net/11529/10548548](https://hdl.handle.net/11529/10548548).
+
+## Step 2: Dataset orgnization
+
+Follow the instructions in PlantHeightProcessing and WheatYieldProcessing, you will obtain a comprehensive "Genotype-Environment-Phenotype" dataset for wheat yield and plant height traits.
+
+## Step 3: Model Training and Testing
+To train and test our model, Just simply：
+`cd Bi-LSTM/`
