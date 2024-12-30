@@ -16,4 +16,7 @@ Follow the instructions in PlantHeightProcessing and WheatYieldProcessing, you w
 
 ## Step 3: Model Training and Testing
 To train and test our model, Just simply：
+
 `cd Bi-LSTM/`
+
+`python run.py`
