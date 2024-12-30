@@ -22,16 +22,20 @@ To train and test the model, simply run the following commands:
 ```bash
 cd Bi-LSTM/
 python run.py
+```
 
 ```bash
 cd Transformer/
 python run.py
+```
 
 **Using Shell Scripts**
 ```bash
 cd Bi-LSTM/
 sh run.sh
+```
 
 ```bash
 cd Transformer/
 sh run.sh
+```
